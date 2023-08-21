@@ -17,8 +17,22 @@ Through compiling the statistics of players in the NBA, we aim to predict the po
 
 
 ## Data Model Implementation
-We created a model based on some of the following (but not limited to) the following criteria: Points, Blocks, Rebounds, Assists, and historical salary information. We found data from several different sources and combined them to run our model on. We were able to reach a predictive power of INSERT PERCENTAGE HERE
+We created a model based on some of the following (but not limited to) the following criteria: Points, Blocks, Rebounds, Assists, and historical salary information. We found data from several different sources and combined them to run our model on.
+
+Using a linear regression model which was trained using SDG regressor (Stochastic Gradient Descent)
+
+We tried to build out a more comprehensive dataset to improve the foundation of our model. While more data meant more information to use, it also meant more pre-processing and nuance to address.
 ## Data Model Optimization
+To optimize, the following changes really impacted the model's performance
+- Pre-processing
+    - Properly encoding categorical data
+    - Not Scaling Categorical data
+- Tuning
+    - Moving from StandardScaler to MinMaxScaler
+    - Raising the learning rate
+    - Removing regularization
+- Started testing on the 2018-2019 salary data and moved year by year with varying (ultimately increasing) model performance
+
 You can find the data model evaluation process showing iterative changes the resulting model performance within the script itself.
 
 ## Contributors
@@ -26,5 +40,5 @@ You can find the data model evaluation process showing iterative changes the res
 - Ryan Kincheloe `TonysTinyToes`
 - Emma Ng `sumiemma`
 - Stelios Kosmidis `SteliosKosmidis`
-- Harman Malhi `insert`
-- Akhyar Zaman `insert`
+- Harman Malhi `hmalhi85`
+- Akhyar Zaman `akzaman47`
