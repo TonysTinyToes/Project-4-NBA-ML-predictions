@@ -35,6 +35,11 @@ To optimize, the following changes really impacted the model's performance
 
 You can find the data model evaluation process showing iterative changes the resulting model performance within the script itself.
 
+## Visualizations
+
+
+![](/images/KALSDFSLKFJ)
+
 ## Contributors
 - Matthew Reyes `mattbreyes`
 - Ryan Kincheloe `TonysTinyToes`
