@@ -14,6 +14,8 @@ Through compiling the statistics of players in the NBA, we aim to predict the po
 ## Directory
 - `Resources` contains all relevant .CSV files used for analysis
 - `Scripts` contains all relevant code files used to run the analysis
+- `Presentation` contains all relevant presentation files, including a powerpoint presentation and the Tableau Workbook used
+- `Images` contains images of the visualizations.
 
 ## ETL Process
 1. Data Collection: Collect historical NBA player data, including player statistics, draft position, team performance, salary information, player attributes, and any other relevant features that could influence contract decisions.
