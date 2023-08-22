@@ -8,7 +8,7 @@ Through compiling the statistics of players in the NBA, we aim to predict the po
 - Ryan Kincheloe `TonysTinyToes`
 - Emma Ng `sumiemma`
 - Stelios Kosmidis `SteliosKosmidis`
-- Harman Malhi `hmalhi85`
+- Harman Malhi `hmalhi95`
 - Akhyar Zaman `akzaman47`
 
 ## Directory
