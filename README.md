@@ -3,6 +3,14 @@
 ## Overview
 Through compiling the statistics of players in the NBA, we aim to predict the potential salary a player will make in the future using machine learning algorithms.
 
+## Contributors
+- Matthew Reyes `mattbreyes`
+- Ryan Kincheloe `TonysTinyToes`
+- Emma Ng `sumiemma`
+- Stelios Kosmidis `SteliosKosmidis`
+- Harman Malhi `hmalhi85`
+- Akhyar Zaman `akzaman47`
+
 ## Directory
 - `Resources` contains all relevant .CSV files used for analysis
 - `Scripts` contains all relevant code files used to run the analysis
@@ -39,12 +47,4 @@ You can find the data model evaluation process showing iterative changes the res
 ![Alt text](Images/Wins_vs_Avg_Salary.png)
 ![Alt text](Images/Avg_Salary_vs_Mins.png)
 ![Alt text](Images/Avg_Salary_vs_+_-.png)
-![Alt text](Images/Avg_Points_vs_Avg_Salary.png))
-
-## Contributors
-- Matthew Reyes `mattbreyes`
-- Ryan Kincheloe `TonysTinyToes`
-- Emma Ng `sumiemma`
-- Stelios Kosmidis `SteliosKosmidis`
-- Harman Malhi `hmalhi85`
-- Akhyar Zaman `akzaman47`
+![Alt text](Images/Avg_Points_vs_Avg_Salary.png)
