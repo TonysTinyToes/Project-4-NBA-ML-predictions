@@ -44,6 +44,7 @@ To optimize, the following changes really impacted the model's performance
 You can find the data model evaluation process showing iterative changes the resulting model performance within the script itself.
 
 ## Visualizations
+You can find the interactive Tableau Visualizations [here](/Presentation/Project%204.twbx)
 ![Alt text](Images/Wins_vs_Avg_Salary.png)
 ![Alt text](Images/Avg_Salary_vs_Mins.png)
 ![Alt text](Images/Avg_Salary_vs_+_-.png)
